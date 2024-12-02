@@ -1,3 +1,2 @@
 ## About me:
-An account to post and share sketch projects  
-That aren't so good to post on my main account [@cadu-code](https://github.com/cadu-code)
+An account to post and share sketch projects that aren't good enough to post on my main account [@cadu-code](https://github.com/cadu-code)
